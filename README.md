@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/vaibhavsanap112" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,python,java,c,bootstrap,tailwind,git,linux,vue,figma,postman,firebase,aws" />
 </p>
 
@@ -25,14 +25,16 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsanap112&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Vaibhav's GitHub stats" width="48%" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=vaibhavsanap112&theme=radical" alt="GitHub Streak" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsanap112&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Vaibhav's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=vaibhavsanap112&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsanap112&layout=compact&theme=radical" alt="Top Langs" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaibhavsanap112&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -49,4 +51,10 @@
 
 ---
 
-Let me know if you'd like this styled in **dark mode**, **gradient backgrounds**, or with **GIFs/interactive badges**!
+### 🌊 Just for Style (Animated SVG Wave)
+
+```html
+<!-- Optional Animated Wave Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.svg" width="100%" alt="Waves" />
+</p>
