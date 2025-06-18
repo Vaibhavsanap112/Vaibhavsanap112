@@ -27,7 +27,8 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsanap112&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Vaibhav's GitHub stats" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsanap112&theme=radical" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=vaibhavsanap112&theme=radical" alt="GitHub Streak" width="48%" />
+
 </p>
 
 <p align="center">
