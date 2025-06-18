@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsanap18&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsanap18&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsanap112&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsanap112&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
