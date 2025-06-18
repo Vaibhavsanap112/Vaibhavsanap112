@@ -9,7 +9,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/vaibhavsanap18" target="_blank">
+  <a href="https://linkedin.com/in/vaibhavsanap112" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsanap18&layout=compact&theme=radical" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsanap112&layout=compact&theme=radical" alt="Top Langs" width="40%" />
 </p>
 
 ---
