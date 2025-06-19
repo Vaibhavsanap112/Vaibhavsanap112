@@ -25,16 +25,16 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsanap112&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Vaibhav's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=vaibhavsanap112&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsanap112&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Vaibhav's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Vaibhavsanap112&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsanap112&layout=compact&theme=radical" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsanap112&layout=compact&theme=radical" alt="Top Langs" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavsanap112&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Vaibhavsanap112&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -52,9 +52,6 @@
 ---
 
 ### 🌊 Just for Style (Animated SVG Wave)
-
-```html
-<!-- Optional Animated Wave Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.svg" width="100%" alt="Waves" />
 </p>
