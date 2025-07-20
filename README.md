@@ -39,10 +39,7 @@
 
 ---
 
-### 🚀 Currently Working On:
-- 👨‍💻 AI-Powered Interview System with Resume Analysis
-- 📱 Mobile-first Full Stack Projects with MongoDB & React
-- 🧠 Exploring Cybersecurity & Ethical Hacking with Kali Linux
+
 
 ---
 
